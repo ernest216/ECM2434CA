@@ -34,6 +34,5 @@ Technical documents are broken down into front end and back end etc.
 
 ### Instructions to run ecomap server
 Open ecomap folder in terminal and execute:
-
 `python3 manage.py collectstatic`
 `python3 manage.py runserver --insecure`
